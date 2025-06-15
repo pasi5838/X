@@ -1,0 +1,14 @@
+
+{
+  "name": "Tebak Nama Hewan",
+  "short_name": "TebakHewan",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Game edukasi menebak nama-nama hewan.",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
